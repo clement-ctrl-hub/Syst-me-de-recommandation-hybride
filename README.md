@@ -1,7 +1,7 @@
 # Système de Recommandation Hybride (MovieLens 100k)
 
 ## Contexte
-Ce projet présente la construction d’un **système de recommandation hybride** en Python à partir du jeu de données **MovieLens 100k**.  
+Ce projet présente la construction d’un système de recommandation hybride en Python à partir du jeu de données MovieLens 100k.  
 Il a été réalisé dans le cadre d’un projet de portfolio en Data Science.
 
 L’objectif est de comparer différentes approches (contenu, collaboratif, hybride) et d’évaluer leurs performances avec des métriques standards.
