@@ -75,4 +75,4 @@ Le notebook `SR.ipynb` contient les étapes suivantes :
 ---
 
 ## Auteur
-Projet réalisé par **[Clément Amegadjaka]** : Recherche d'alternance en Data Science / Data Engineering.  
+Projet réalisé par **Clément Amegadjaka** : Recherche d'alternance en Data Science / Data Engineering.  
